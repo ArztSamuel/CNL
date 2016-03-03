@@ -1,0 +1,63 @@
+ --------- Freeware License Agreement of CNL - CampusNetLogin ----------------------------------
+|  												|
+|  Acknowledgement							   			|
+|  									   			|
+|  Carefully read the following terms and conditions before using this software.		|
+|  By using this freeware you acknowledge that you have read this limited warranty, understand  |
+|  it, and agree to be bound by its terms and conditions. You also agree that your use of this  |
+|  software indicates your acceptance of this license agreement and warranty. If you do not 	|
+|  agree to the terms of this agreement, delete the software from all storage media.		|
+|												|
+|												|
+|  License											|
+|												|
+|  This Freeware License Agreement (the "Agreement") is a legal agreement between you 		|
+|  ("Licensee"), the end-user, and Samuel Arzt for the use of this software product 		|
+|  ("Software"). Non-commercial use is allowed. By using this Software or storing this program	|
+|  or parts of it on a computer hard drive (or other media), you agree to be bound by terms of 	|
+|  this Agreement.										|
+|  Provided that you verify that you are handling the original freeware version 		|		
+|  you are hereby licensed to make as many copies of the freeware version of this Software and 	|
+|  documentation as long as you do not charge money or request donations for such copies. You 	|
+|  may not alter this Software in any way. You may not modify, rent or sell this Software, or 	|
+|  create derivative works based upon this Software without Samuel Arzt's formal permission.	|
+|  												|
+|  This agreement shall be governed by the laws of Austria. If any portion of this Agreement is |
+|  deemed unenforceable by a court of competent jurisdiction, it shall not affect the 		|
+|  forcibility of the other portions of this Agreement.						|
+|  												|
+|  Limited Warranty and Disclaimer of Warranty							|
+|												|
+|  Samuel Arzt expressly disclaims any warranty for the Software. This Software and the 	|
+|  accompanying files are provided "as is" and without warranties as to performance of 		|
+|  merchantability or any other warranties whether expressed or implied, or noninfringement. 	|
+|  This Software is not fault tolerant and should not be used in any environment which requires |
+|  this. No liability for damages. In no event shall Samuel Arzt be liable for any 		|
+|  consequential, incidental or indirect damages whatsoever (including, without limitation, 	|
+|  damages for loss of business profits, business interruption, loss of business information, 	|
+|  or any other pecuniary loss) resulting of the use of or inability to use this Software even 	|
+|  if Samuel Arzt has been advised of the possibility of such damages. The entire risk resulting|
+|  of use or performance of the Software remains with you.					|
+|												|
+ -----------------------------------------------------------------------------------------------
+
+
+
+Unformatted version:
+
+Freeware License Agreement of CNL - CampusNetLogin
+
+Acknowledgement
+
+Carefully read the following terms and conditions before using this software. By using this freeware you acknowledge that you have read this limited warranty, understand it, and agree to be bound by its terms and conditions. You also agree that your use of this software indicates your acceptance of this license agreement and warranty. If you do not agree to the terms of this agreement, delete the software from all storage media.
+
+License
+
+This Freeware License Agreement (the "Agreement") is a legal agreement between you ("Licensee"), the end-user, and Samuel Arzt for the use of this software product ("Software"). Non-commercial use is allowed. By using this Software or storing this program or parts of it on a computer hard drive (or other media), you agree to be bound by terms of this Agreement.
+Provided that you verify that you are handling the original freeware version you are hereby licensed to make as many copies of the freeware version of this Software and documentation as long as you do not charge money or request donations for such copies. You may not alter this Software in any way. You may not modify, rent or sell this Software, or create derivative works based upon this Software without Samuel Arzt's permission.
+
+Limited Warranty and Disclaimer of Warranty
+
+Samuel Arzt expressly disclaims any warranty for the Software. This Software and the accompanying files are provided "as is" and without warranties as to performance of merchantability or any other warranties whether expressed or implied, or noninfringement. This Software is not fault tolerant and should not be used in any environment which requires this. No liability for damages. In no event shall Samuel Arzt be liable for any consequential, incidental or indirect damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) resulting of the use of or inability to use this Software even if Samuel Arzt has been advised of the possibility of such damages. The entire risk resulting of use or performance of the Software remains with you.
+
+
